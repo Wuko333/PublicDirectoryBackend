@@ -1,3 +1,3 @@
-This is the backend of a secure directory application. I made this to learn about Relational Mapping, Spring Security, and JWT usage. 
+My church needed a directory so I made a directory. This is the backend of it*, made with Spring Boot.
 
-This is an older version. The current working version is private.
+*The current working version is private and in use. This is a public, older revision meant for people who are curious about my programming.
